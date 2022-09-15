@@ -1,17 +1,17 @@
 # 2_blockchain_app
 
-Build and deploy a modern Web 3.0 blockchain app
+Build and deploy a modern Web 3.0 blockchain app, using Vite and Tailwind CSS
 
-## Project set up using Vite
+## Project set up
 
-set up in the client folder
+Set up in the client folder
 
 - `npm create vite@latest` - select `./` to run in current folder
 - then `npm install` and `npm run dev`
 - install Tailwind CSS - follow instructions for Vite
-- `npm install react-icons ethers`
+- `npm install react-icons ethers` - install react-icons and ethers.js
 
-set up in the smart_contract folder
+Set up in the smart_contract folder
 
 - run `npm init -y` to create an empty `package.json`
 
