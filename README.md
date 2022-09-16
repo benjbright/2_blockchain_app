@@ -24,3 +24,18 @@ Set up in the smart_contract folder
 ## Ethereum smart contract notes
 
 - run `npx hardhat`
+
+## React context API
+
+- allows all of the state logic to be written in one place and used across all components
+- set up all of the Web3 connectivity in the Context Provider
+
+## Areas to revise
+
+- try and catch blocks
+- React context provider
+- computed property names - in the handleChange function in the Transaction Context
+
+## Additional features to add
+
+- instead of removing button if account connected, either disable or change text to say 'connected'
