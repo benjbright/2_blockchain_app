@@ -40,3 +40,8 @@ Set up in the smart_contract folder
 
 - instead of removing button if account connected, either disable or change text to say 'connected'
 - add the connected network to the Ethereum card
+
+## Hosting the App
+
+- run `npm run build` - creates an optimised version ready for production
+- deployed version will be under the dist folder
