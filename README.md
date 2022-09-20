@@ -40,6 +40,8 @@ Set up in the smart_contract folder
 
 - instead of removing button if account connected, either disable or change text to say 'connected'
 - add the connected network to the Ethereum card
+- run tests using Hardhat
+- listen for events?
 
 ## Hosting the App
 
